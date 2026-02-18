@@ -1,6 +1,6 @@
 .venv
 data/
-.idea
+.idea/
 __pycache__/
 .ipynb_checkpoints/
 .DC_Store
